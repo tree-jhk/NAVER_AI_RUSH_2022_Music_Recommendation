@@ -16,7 +16,7 @@ VIBE 라는 음악 스트리밍 플랫폼에서 사용자들이 만든 플레이
 ## Recommender
 - AE를 이용한 유사도는 test의 수록곡들과 추천된 수록곡들 간의 자카드 유사도를 score로 사용했고
 - W2V을 이용한 유사도는 AE의 유사도와 scale을 맞추기 위해, 가중치를 곱하고 score로 사용했습니다.
-- 구한 score들을 통해 각 test data별로, top-100 추천 수록곡을 구해서 채워야하는 수록곡수만큼을 추천했습니다.
+- 구한 score들을 통해 각 test data별로, top-100 추천 수록곡을 구해서 채워야하는 수록곡 수만큼을 추천했습니다.
 ## Reference
 - YouTube 추천 시스템: https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf
 - Spotify 추천 시스템 코드: https://github.com/hojinYang/spotify_recSys_challenge_2018
