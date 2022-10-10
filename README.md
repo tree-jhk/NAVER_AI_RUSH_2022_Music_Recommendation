@@ -1,6 +1,8 @@
 # NAVER AI RUSH 2022 Music Recommendation
 #### NAVER AI RUSH 2022 Round 2: Music Recommendation 9th
+![airush3](https://user-images.githubusercontent.com/97151660/194845726-4442b02d-b8f8-45a2-b091-a0dad785854e.JPG)
 ## Task
+![image](https://user-images.githubusercontent.com/97151660/194845827-f5d573bc-5c9e-4421-8b5b-ab80bff92a7c.png)
 VIBE 라는 음악 스트리밍 플랫폼에서 사용자들이 만든 플레이리스트의 수록곡을 맞추는 task입니다.
 ## Dataset
   train data: 실제 플레이리스트
